@@ -15,171 +15,169 @@
                     ],
                     "answer": "c"
                 }
-              ]
-          },
-          "Capítulo 7: Interacción entre las células y su entorno":{
-            "questions":[
-              [
-    {
-        "question": "La matriz extracelular (ECM):",
-        "year": "",
-        "imageURL": "",
-        "options": [
-            "Está formada por una red de lípidos interconectados.",
-            "Funciona únicamente como cemento intracelular.",
-            "Posee función reguladora para las células.",
-            "Su constitución es exactamente igual en todos los tejidos.",
-            "Su composición es parecida a la encontrada en el citosol."
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "El glucocáliz tiene como característica una de las siguientes, indicar la que corresponda:",
-        "year": "",
-        "imageURL": "",
-        "options": [
-            "Constituye un material intracelular muy prominente en algunos tipos de células.",
-            "Posee únicamente una función mecánica amortiguando impactos en la membrana plasmática.",
-            "Lo podemos encontrar a nivel de varias membranas intracitoplásmicas además de la membrana plasmática.",
-            "Es capaz de unirse a factores reguladores en la superficie celular.",
-            "Es fundamental para el anclaje mecánico de una célula con otra a nivel de los desmosomas."
-        ],
-        "answer": "d"
-    },
-    {
-        "question": "Son componentes de la matriz extracelular, excepto:",
-        "year": "",
-        "imageURL": "",
-        "options": [
-            "La fibronectina.",
-            "La laminina.",
-            "El colágeno.",
-            "El fibroblasto.",
-            "La integrina."
-        ],
-        "answer": "d"
-    },
-    {
-        "question": "La denominada membrana basal es una fundamental estructura en organismos pluricelulares. Sobre ella es correcto:",
-        "year": "",
-        "imageURL": "",
-        "options": [
-            "En epitelio multicapas se ubican en las regiones basales y laterales de las células.",
-            "Su espesor va de cincuenta a doscientos micrómetros.",
-            "Una función peculiar es la de permitir que los eritrocitos no se aglutinen.",
-            "Si la eliminamos las células unidas a ella morirán probablemente.",
-            "Su adelgazamiento anormal en los glomérulos produce insuficiencia renal en diabéticos."
-        ],
-        "answer": "e"
-    },
-    {
-        "question": "Podríamos definir la membrana basal como:",
-        "year": "",
-        "imageURL": "",
-        "options": [
-            "La cubierta de glucocálix de las células.",
-            "Una de las matrices extracelulares mejor definidas.",
-            "Una estructura proteica que puede tomar diversas formas en diferentes tejidos y organismos.",
-            "Proteínas auto ensambladas secretadas en el espacio extracelular.",
-            "Uno de los sitios abundantes en colágeno de tipo I en los seres vivos complejos."
-        ],
-        "answer": "b"
-    },
-    {
-        "question": "Sobre la membrana basal es correcto afirmar lo siguiente:",
-        "year": "",
-        "imageURL": "",
-        "options": [
-            "Rodea a las células epiteliales, musculares y fibroblastos",
-            "Tiene un espesor típico de entre 500 a 2000 μm",
-            "Es particularmente rica en glucocálix",
-            "Presentan mayor espesor en las células endoteliales que en los glomérulos",
-            "Generan señales que mantienen la supervivencia celular"
-        ],
-        "answer": "e"
-    },
-    {
-        "question": "Es correcto con relación a la lámina basal:",
-        "year": "",
-        "imageURL": "",
-        "options": [
-            "Se encuentra siempre en contacto con las microvellosidades de la membrana plasmática.",
-            "Tienen la capacidad de degradar componentes que atraviesan la membrana plasmática.",
-            "En determinadas ocasiones pueden actuar como barrera para el paso de macromoléculas",
-            "Forma parte del glucocálix.",
-            "No se encuentran asociadas a la células epiteliales."
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "La macromolécula de la matriz extracelular que por su disposición y estructura resiste las fuerzas de compresión es:",
-        "year": "",
-        "imageURL": "",
-        "options": [
-            "Polisacáridos.",
-            "Colágeno.",
-            "Glicosaminoglucanos.",
-            "Integrina.",
-            "Fibronectina."
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "Al analizar la estructura de los proteoglucanos, la macromolécula está formada por:",
-        "year": "",
-        "imageURL": "",
-        "options": [
-            "Una proteína central más un monosacárido.",
-            "Varias proteínas unidas a carbohidratos.",
-            "Una proteína unida a un glucosaminoglucano.",
-            "Está formado solo por glucosaminoglucano.",
-            "Una proteína unida a varios glucosaminoglucano."
-        ],
-        "answer": "e"
-    },
-    {
-        "question": "Son complejos proteína-polisacárido presente en grandes cantidades en las matrices extracelulares:",
-        "year": "",
-        "imageURL": "",
-        "options": [
-            "Colágeno de tipo IV.",
-            "Laminina.",
-            "Proteoglucanos.",
-            "Fibronectina.",
-            "Integrinas."
-        ],
-        "answer": "c"
-    },
-    {
-        "question": "Entre las características de la fibronectina la única opción es:",
-        "year": "",
-        "imageURL": "",
-        "options": [
-            "La molécula se encuentra formada por dos polipéptidos idénticos en estructura y función.",
-            "Los polipéptidos se encuentran unidos por un par de enlace del tipo disulfuro dispuesto en la Zona N- terminal del polipéptido.",
-            "Cada polipéptido se encuentra compuesto por unos módulos similares organizados en unidades funcionales pequeñas.",
-            "Cada una de la zonas funcionales de la fibronectina posee solo un sitio activo para cada componente de la matriz extracelular.",
-            "Existe la probabilidad de que en las unidades funcionales se unan elementos de la superficie celular como de la matriz extracelular."
-        ],
-        "answer": "e"
-    },
-    {
-        "question": "La fibronectina es una proteína que encontramos asociada al siguiente componente:",
-        "year": "",
-        "imageURL": "",
-        "options": [
-            "Matriz extracelular.",
-            "Elementos del retículo endoplásmico.",
-            "Proteínas histonas.",
-            "Desenrollamiento del ADN.",
-            "Traducción citosólica."
-        ],
-        "answer": "a"
+            ]
+        },
+        "Capítulo 7: Interacción entre las células y su entorno": {
+            "questions": [
+                [
+                    {
+                        "question": "La matriz extracelular (ECM):",
+                        "year": "",
+                        "imageURL": "",
+                        "options": [
+                            "Está formada por una red de lípidos interconectados.",
+                            "Funciona únicamente como cemento intracelular.",
+                            "Posee función reguladora para las células.",
+                            "Su constitución es exactamente igual en todos los tejidos.",
+                            "Su composición es parecida a la encontrada en el citosol."
+                        ],
+                        "answer": "c"
+                    },
+                    {
+                        "question": "El glucocáliz tiene como característica una de las siguientes, indicar la que corresponda:",
+                        "year": "",
+                        "imageURL": "",
+                        "options": [
+                            "Constituye un material intracelular muy prominente en algunos tipos de células.",
+                            "Posee únicamente una función mecánica amortiguando impactos en la membrana plasmática.",
+                            "Lo podemos encontrar a nivel de varias membranas intracitoplásmicas además de la membrana plasmática.",
+                            "Es capaz de unirse a factores reguladores en la superficie celular.",
+                            "Es fundamental para el anclaje mecánico de una célula con otra a nivel de los desmosomas."
+                        ],
+                        "answer": "d"
+                    },
+                    {
+                        "question": "Son componentes de la matriz extracelular, excepto:",
+                        "year": "",
+                        "imageURL": "",
+                        "options": [
+                            "La fibronectina.",
+                            "La laminina.",
+                            "El colágeno.",
+                            "El fibroblasto.",
+                            "La integrina."
+                        ],
+                        "answer": "d"
+                    },
+                    {
+                        "question": "La denominada membrana basal es una fundamental estructura en organismos pluricelulares. Sobre ella es correcto:",
+                        "year": "",
+                        "imageURL": "",
+                        "options": [
+                            "En epitelio multicapas se ubican en las regiones basales y laterales de las células.",
+                            "Su espesor va de cincuenta a doscientos micrómetros.",
+                            "Una función peculiar es la de permitir que los eritrocitos no se aglutinen.",
+                            "Si la eliminamos las células unidas a ella morirán probablemente.",
+                            "Su adelgazamiento anormal en los glomérulos produce insuficiencia renal en diabéticos."
+                        ],
+                        "answer": "e"
+                    },
+                    {
+                        "question": "Podríamos definir la membrana basal como:",
+                        "year": "",
+                        "imageURL": "",
+                        "options": [
+                            "La cubierta de glucocálix de las células.",
+                            "Una de las matrices extracelulares mejor definidas.",
+                            "Una estructura proteica que puede tomar diversas formas en diferentes tejidos y organismos.",
+                            "Proteínas auto ensambladas secretadas en el espacio extracelular.",
+                            "Uno de los sitios abundantes en colágeno de tipo I en los seres vivos complejos."
+                        ],
+                        "answer": "b"
+                    },
+                    {
+                        "question": "Sobre la membrana basal es correcto afirmar lo siguiente:",
+                        "year": "",
+                        "imageURL": "",
+                        "options": [
+                            "Rodea a las células epiteliales, musculares y fibroblastos",
+                            "Tiene un espesor típico de entre 500 a 2000 μm",
+                            "Es particularmente rica en glucocálix",
+                            "Presentan mayor espesor en las células endoteliales que en los glomérulos",
+                            "Generan señales que mantienen la supervivencia celular"
+                        ],
+                        "answer": "e"
+                    },
+                    {
+                        "question": "Es correcto con relación a la lámina basal:",
+                        "year": "",
+                        "imageURL": "",
+                        "options": [
+                            "Se encuentra siempre en contacto con las microvellosidades de la membrana plasmática.",
+                            "Tienen la capacidad de degradar componentes que atraviesan la membrana plasmática.",
+                            "En determinadas ocasiones pueden actuar como barrera para el paso de macromoléculas",
+                            "Forma parte del glucocálix.",
+                            "No se encuentran asociadas a la células epiteliales."
+                        ],
+                        "answer": "c"
+                    },
+                    {
+                        "question": "La macromolécula de la matriz extracelular que por su disposición y estructura resiste las fuerzas de compresión es:",
+                        "year": "",
+                        "imageURL": "",
+                        "options": [
+                            "Polisacáridos.",
+                            "Colágeno.",
+                            "Glicosaminoglucanos.",
+                            "Integrina.",
+                            "Fibronectina."
+                        ],
+                        "answer": "c"
+                    },
+                    {
+                        "question": "Al analizar la estructura de los proteoglucanos, la macromolécula está formada por:",
+                        "year": "",
+                        "imageURL": "",
+                        "options": [
+                            "Una proteína central más un monosacárido.",
+                            "Varias proteínas unidas a carbohidratos.",
+                            "Una proteína unida a un glucosaminoglucano.",
+                            "Está formado solo por glucosaminoglucano.",
+                            "Una proteína unida a varios glucosaminoglucano."
+                        ],
+                        "answer": "e"
+                    },
+                    {
+                        "question": "Son complejos proteína-polisacárido presente en grandes cantidades en las matrices extracelulares:",
+                        "year": "",
+                        "imageURL": "",
+                        "options": [
+                            "Colágeno de tipo IV.",
+                            "Laminina.",
+                            "Proteoglucanos.",
+                            "Fibronectina.",
+                            "Integrinas."
+                        ],
+                        "answer": "c"
+                    },
+                    {
+                        "question": "Entre las características de la fibronectina la única opción es:",
+                        "year": "",
+                        "imageURL": "",
+                        "options": [
+                            "La molécula se encuentra formada por dos polipéptidos idénticos en estructura y función.",
+                            "Los polipéptidos se encuentran unidos por un par de enlace del tipo disulfuro dispuesto en la Zona N- terminal del polipéptido.",
+                            "Cada polipéptido se encuentra compuesto por unos módulos similares organizados en unidades funcionales pequeñas.",
+                            "Cada una de la zonas funcionales de la fibronectina posee solo un sitio activo para cada componente de la matriz extracelular.",
+                            "Existe la probabilidad de que en las unidades funcionales se unan elementos de la superficie celular como de la matriz extracelular."
+                        ],
+                        "answer": "e"
+                    },
+                    {
+                        "question": "La fibronectina es una proteína que encontramos asociada al siguiente componente:",
+                        "year": "",
+                        "imageURL": "",
+                        "options": [
+                            "Matriz extracelular.",
+                            "Elementos del retículo endoplásmico.",
+                            "Proteínas histonas.",
+                            "Desenrollamiento del ADN.",
+                            "Traducción citosólica."
+                        ],
+                        "answer": "a"
+                    }
+                ]
+            ]
+        }
     }
-]
-              ]
-          }
-      }
-  }
-      
-              
+}
