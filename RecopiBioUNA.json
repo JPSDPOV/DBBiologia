@@ -1,22 +1,49 @@
 {
     "topics": {
-        "Capítulo 1: Introducción al estudio de la célula y biología molecular": {
-            "questions": [
-                {
-                    "question": "Con respecto al descubrimiento de las células es correcto afirmar lo siguiente:",
-                    "year": "",
-                    "imageURL": "",
-                    "options": [
-                        "Las ideas de Schwann y Schleiden originalmente incluían el concepto de que las células solo pueden surgir de la división de una célula preexistente.",
-                        "Fue el patólogo alemán Rudolf Virchow el que conceptualizó a la célula como la unidad estructural de vida.",
-                        "Fue Robert Hooke el primero en reconocer la existencia de estructuras a las que denominó células.",
-                        "Anton Von Leeuwenhoek se considera el descubridor de las células y bacterias e inventor del microscopio.",
-                        "Entre los postulados de la teoría celular se incluye la capacidad de las células de moverse."
-                    ],
-                    "answer": "c"
+        "Unidad 1: Introducción al estudio de la Célula y la Biología Molecular": {
+            "subtopics": {
+                "Historia": {
+                    "questions": [
+                        {
+                            "year": "",
+                            "question": "Con respecto al descubrimiento de las células es correcto afirmar lo siguiente:",
+                            "options": [
+                                "Las ideas de Schwann y Schielden originalmente incluían el concepto de que las células solo pueden surgir de la división de una célula preexistente.",
+                                "Fue el patólogo alemán Rudolf Virchow el que conceptualizó a la célula como la unidad estructural de vida.",
+                                "Fue Robert Hooke el primero en reconocer la existencia de estructuras a las que denominó células.",
+                                "Anton Von Leeuwenhoek se considera el descubridor de las células y bacterias e inventor del microscopio.",
+                                "Entre los postulados de la teoría celular se incluye la capacidad de las células de moverse."
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "",
+                            "question": "Indicar entre los preceptos citados cual corresponde a uno de los dos principios de la teoría celular propuesta por Theodor Schwann:",
+                            "options": [
+                                "La célula es la unidad estructural de la vida.",
+                                "Todos los seres vivos evolucionan.",
+                                "Todas las células son microscópicas.",
+                                "Todas las células poseen material genético.",
+                                "Todas las células poseen las mismas características."
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "",
+                            "question": "Todos los organismos están hechos de células es uno de los postulados de:",
+                            "options": [
+                                "Teoría celular",
+                                "Teoría anuclear",
+                                "Principio de la proteómica",
+                                "Bases de la genómica",
+                                "Integral microcelular"
+                            ],
+                            "answer": "a"
+                        }
+                    ]
                 }
-            ]
-        },
+            }
+        },                                      
         "Capítulo 7: Interacción entre las células y su entorno": {
             "questions": [
                 {
