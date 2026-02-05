@@ -203,6 +203,28 @@
                     "answer": "a"
                 }
             ]
+        },
+        "Unidad 8: Sistema de Endomembranas": {
+            "subtopics": {
+                "Complejo de Golgi": {
+                    "questions": [
+                        {
+                            "year": "",
+                            "question": "Sobre el aparato de Golgi marque la afirmación correcta:",
+                            "options": [
+                                "La mayor parte del complejo de Golgi consiste en una serie de grandes cisternas aplanadas.",
+                                "Es uno de los sitios de síntesis proteica a partir del ARN mensajero pero de menor importancia que otras organelas.",
+                                "Posee una actividad de degradación enzimática de moléculas orgánicas dentro de la célula muy importante.",
+                                "Las proteínas que llegan al aparato de Golgi ya tienen todo su ensamblaje de carbohidratos completado.",
+                                "El aparato de Golgi sólo puede observarse por medio de microscopio electrónico de transmisión."
+                            ],
+                            "answer": "a",
+                            "explicacion": "Afirmación a (Correcta): El texto indica explícitamente que La mayor parte del complejo de Golgi consiste en una serie de grandes cisternas aplanadas, que se dividen en cisterna cis, medial y trans. Afirmación b (Incorrecta): La síntesis de proteínas ocurre en los ribosomas (ya sean libres o unidos al retículo endoplásmico rugoso), no en el aparato de Golgi. Afirmación c (Incorrecta): Esta es la función principal de los lisosomas, que contienen enzimas hidrolíticas para degradar macromoléculas. Afirmación d (Incorrecta): El aparato de Golgi es precisamente donde se realiza gran parte del procesamiento y ensamblaje de carbohidratos, completando la glucosilación que inició en el RE. Afirmación e (Incorrecta): Camillo Golgi descubrió el complejo en 1898 usando una tinción metálica y un microscopio de luz. Aunque su existencia fue debatida, técnicas como la fractura por congelación y microscopía electrónica confirmaron su estructura más tarde.",
+                            "imageURLans": ""
+                        }
+                    ]
+                }
+            }
         }
     }
 }
