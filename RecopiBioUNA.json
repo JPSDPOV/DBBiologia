@@ -228,6 +228,20 @@
                     "questions": [
                         {
                             "year": "",
+                            "question": "Una vez que una vesícula de transporte con su cargamento de proteínas específico llega a su membrana blanco se produce:",
+                            "options": [
+                                "La fijación de la vesícula a su membrana blanco mediante sus proteínas SNARE.",
+                                "Las vesículas se movilizan mediante proteínas motoras sobre microfilamentos.",
+                                "El contacto inicial de la vesícula con su membrana blanco mediado por proteína fijadoras.",
+                                "La unión de la vesícula con la membrana blanco utiliza energía en forma de ATP.",
+                                "La unión de una proteína SNARE de la vesícula con una proteína fijadora perteneciente a la membrana blanco."
+                            ],
+                            "answer": "c",
+                            "explicacion": "Página 288. Se cree que los contactos iniciales entre una vesícula de transporte y su membrana blanco... están mediados por una diversa colección de proteínas 'de anclaje'. Estas proteínas pueden ser fibrosas o complejos multiproteicos. a) y e): Las proteínas SNARE no median el contacto inicial (fijación), sino el acoplamiento posterior. Además, las SNARE de la vesícula (v-SNARE) se unen a SNARE de la membrana blanco (t-SNARE), no a proteínas fijadoras. b): El movimiento hacia el compartimiento blanco ocurre principalmente sobre microtúbulos, no sobre microfilamentos. d): La unión de las SNARE es un proceso que acerca las bicapas de forma espontánea; el ATP se utiliza específicamente después de la fusión para que la proteína NSF desvincule el complejo SNARE.",
+                            "imageURLans": ""
+                        },
+                        {
+                            "year": "",
                             "question": "Las proteínas sintaxina y SNAP-25 son ejemplos de:",
                             "options": [
                                 "Proteínas AP2.",
