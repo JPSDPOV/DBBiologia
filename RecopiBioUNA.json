@@ -204,7 +204,7 @@
                 }
             ]
         },
-        "Capítulo 8: Sistema de Endomembranas": {
+        "Unidad 8: Sistema de Endomembranas": {
             "subtopics": {
                 "Complejo de Golgi": {
                     "questions": [
@@ -219,7 +219,25 @@
                                 "El aparato de Golgi sólo puede observarse por medio de microscopio electrónico de transmisión."
                             ],
                             "answer": "a",
-                            "explicacion": "Afirmación a (Correcta): El texto indica explícitamente que La mayor parte del complejo de Golgi consiste en una serie de grandes cisternas aplanadas, que se dividen en cisterna cis, medial y trans. <br><br> Afirmación b (Incorrecta): La síntesis de proteínas ocurre en los ribosomas (ya sean libres o unidos al retículo endoplásmico rugoso), no en el aparato de Golgi. \n\n Afirmación c (Incorrecta): Esta es la función principal de los lisosomas, que contienen enzimas hidrolíticas para degradar macromoléculas. \n\n Afirmación d (Incorrecta): El aparato de Golgi es precisamente donde se realiza gran parte del procesamiento y ensamblaje de carbohidratos, completando la glucosilación que inició en el RE. \n\n Afirmación e (Incorrecta): Camillo Golgi descubrió el complejo en 1898 usando una tinción metálica y un microscopio de luz. Aunque su existencia fue debatida, técnicas como la fractura por congelación y microscopía electrónica confirmaron su estructura más tarde.",
+                            "explicacion": "Página 276. Afirmación a (Correcta): El texto indica explícitamente que La mayor parte del complejo de Golgi consiste en una serie de grandes cisternas aplanadas, que se dividen en cisterna cis, medial y trans. <br><br> Afirmación b (Incorrecta): La síntesis de proteínas ocurre en los ribosomas (ya sean libres o unidos al retículo endoplásmico rugoso), no en el aparato de Golgi. \n\n Afirmación c (Incorrecta): Esta es la función principal de los lisosomas, que contienen enzimas hidrolíticas para degradar macromoléculas. \n\n Afirmación d (Incorrecta): El aparato de Golgi es precisamente donde se realiza gran parte del procesamiento y ensamblaje de carbohidratos, completando la glucosilación que inició en el RE. \n\n Afirmación e (Incorrecta): Camillo Golgi descubrió el complejo en 1898 usando una tinción metálica y un microscopio de luz. Aunque su existencia fue debatida, técnicas como la fractura por congelación y microscopía electrónica confirmaron su estructura más tarde.",
+                            "imageURLans": ""
+                        }
+                    ]
+                },
+                "Direccionamiento Vesicular": {
+                    "questions": [
+                        {
+                            "year": "",
+                            "question": "Las proteínas sintaxina y SNAP-25 son ejemplos de:",
+                            "options": [
+                                "Proteínas AP2.",
+                                "Proteínas Sar1.",
+                                "Proteínas GGA.",
+                                "Proteínas SNARE.",
+                                "Proteínas Rab."
+                            ],
+                            "answer": "d",
+                            "explicacion": "Página 289. las proteínas clave que participan en las interacciones para la fusión de membranas se llaman SNARE. Específicamente, menciona que la membrana plasmática de la célula nerviosa contiene dos t-SNARE, sintaxina y SNAP-25. Incorrectas: AP2: Son adaptadores que operan en la endocitosis mediada por clatrina. Sar1: Es una pequeña proteína G que inicia la formación de vesículas recubiertas con COPII. GGA: Es una familia de proteínas adaptadoras que escoltan enzimas lisosomales desde la TGN. Rab: Es una familia de pequeñas proteínas G que participan en el anclaje de vesículas al compartimiento blanco.",
                             "imageURLans": ""
                         }
                     ]
