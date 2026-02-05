@@ -237,7 +237,21 @@
                                 "Proteínas Rab."
                             ],
                             "answer": "d",
-                            "explicacion": "Página 289. las proteínas clave que participan en las interacciones para la fusión de membranas se llaman SNARE. Específicamente, menciona que la membrana plasmática de la célula nerviosa contiene dos t-SNARE, sintaxina y SNAP-25. Incorrectas: AP2: Son adaptadores que operan en la endocitosis mediada por clatrina. Sar1: Es una pequeña proteína G que inicia la formación de vesículas recubiertas con COPII. GGA: Es una familia de proteínas adaptadoras que escoltan enzimas lisosomales desde la TGN. Rab: Es una familia de pequeñas proteínas G que participan en el anclaje de vesículas al compartimiento blanco.",
+                            "explicacion": "Página 289. Las proteínas clave que participan en las interacciones para la fusión de membranas se llaman SNARE. Específicamente, menciona que la membrana plasmática de la célula nerviosa contiene dos t-SNARE, sintaxina y SNAP-25. Incorrectas: AP2: Son adaptadores que operan en la endocitosis mediada por clatrina. Sar1: Es una pequeña proteína G que inicia la formación de vesículas recubiertas con COPII. GGA: Es una familia de proteínas adaptadoras que escoltan enzimas lisosomales desde la TGN. Rab: Es una familia de pequeñas proteínas G que participan en el anclaje de vesículas al compartimiento blanco.",
+                            "imageURLans": ""
+                        },
+                        {
+                            "year": "",
+                            "question": "Con respecto al direccionamiento vesicular a un compartimiento particular, marque lo que no corresponde:",
+                            "options": [
+                                "El movimiento de la vesícula hacia el compartimiento blanco específico esta mediado sobre todo por microtúbulos.",
+                                "La fijación de vesículas al compartimiento blanco se realiza en estadios iniciales gracias a proteínas fibrosas cilíndricas.",
+                                "Las proteínas Rab se encuentran tanto en la membrana vesicular como en la membrana blanco.",
+                                "Las proteínas SNARE-t participan en la fijación de la vesícula con la membrana blanco.",
+                                "Las proteínas Rab están unidas a moléculas de GTP."
+                            ],
+                            "answer": "d",
+                            "explicacion": "Pág. 288. Las t-SNARE participan en el acoplamiento (paso 3) y no en la fijación o anclaje (paso 2). a) Corresponde: El movimiento está mediado en gran parte por microtúbulos y sus proteínas motoras. b) Corresponde: Las proteínas de anclaje inicial como proteínas fibrosas en forma de bastón. El término cilíndricas en la pregunta suele usarse como sinónimo de forma de bastón en este contexto biológico. c) Corresponde: Las proteínas Rab se asocian con membranas mediante un anclaje lipídico y, según la Figura 8-31a, se reclutan tanto en la vesícula como en la membrana blanco. e) Corresponde: Las Rab son proteínas G que ciclan entre un estado activo unido a GTP y uno inactivo unido a GDP.",
                             "imageURLans": ""
                         }
                     ]
