@@ -49,6 +49,21 @@
                 "Interacciones celulares y matriz extracelular": {
                     "questions": [
                         {
+                            "question": "El glucocáliz tiene como característica una de las siguientes, indicar la que corresponda:",
+                            "year": "",
+                            "imageURL": "",
+                            "options": [
+                                "Constituye un material intracelular muy prominente en algunos tipos de células.",
+                                "Posee únicamente una función mecánica amortiguando impactos en la membrana plasmática.",
+                                "Lo podemos encontrar a nivel de varias membranas intracitoplásmicas además de la membrana plasmática.",
+                                "Es capaz de unirse a factores reguladores en la superficie celular.",
+                                "Es fundamental para el anclaje mecánico de una célula con otra a nivel de los desmosomas."
+                            ],
+                            "answer": "d",
+                            "explicacion": "Unidad 7. Página: 224",
+                            "imageURLans": "https://github.com/JPSDPOV/DBBiologia/main/imagenes/Imagen%20713.png"
+                        },
+                        {
                             "question": "La matriz extracelular (ECM):",
                             "year": "",
                             "imageURL": "",
@@ -77,19 +92,6 @@
                             "answer": "d",
                             "explicacion": "Unidad 7. Página: 224",
                             "imageURLans": "https://github.com/JPSDPOV/DBBiologia/main/imagenes/Imagen%20711.png"
-                        },
-                        {
-                            "question": "El glucocáliz tiene como característica una de las siguientes, indicar la que corresponda:",
-                            "year": "",
-                            "imageURL": "",
-                            "options": [
-                                "Constituye un material intracelular muy prominente en algunos tipos de células.",
-                                "Posee únicamente una función mecánica amortiguando impactos en la membrana plasmática.",
-                                "Lo podemos encontrar a nivel de varias membranas intracitoplásmicas además de la membrana plasmática.",
-                                "Es capaz de unirse a factores reguladores en la superficie celular.",
-                                "Es fundamental para el anclaje mecánico de una célula con otra a nivel de los desmosomas."
-                            ],
-                            "answer": "d"
                         },
                         {
                             "question": "Son componentes de la matriz extracelular, excepto:",
