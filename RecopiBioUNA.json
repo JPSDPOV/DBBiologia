@@ -49,7 +49,7 @@
                 "Interacciones celulares y matriz extracelular": {
                     "questions": [
                         {
-                            "question": "El glucocáliz tiene como característica una de las siguientes, indicar la que corresponda:",
+                            "question": "El glucocálix tiene como característica una de las siguientes, indicar la que corresponda:",
                             "year": "",
                             "imageURL": "",
                             "options": [
@@ -62,6 +62,21 @@
                             "answer": "d",
                             "explicacion": "Unidad 7. Página: 224",
                             "imageURLans": "https://github.com/JPSDPOV/DBBiologia/main/imagenes/Imagen%20713.png"
+                        },
+                        {
+                            "question": "Son funciones del glucocálix todas las citadas, EXCEPTO:",
+                            "year": "",
+                            "imageURL": "",
+                            "options": [
+                                "Media las interacciones célula-célula.",
+                                "Proporciona protección mecánica a las células.",
+                                "Barrera contra moléculas que se acercan a la membrana.",
+                                "Une diversos factores reguladores a la superficie de la membrana",
+                                "Determina el potencial de membrana de la superficie interna."
+                            ],
+                            "answer": "e",
+                            "explicacion": "Unidad 7. Página: 224",
+                            "imageURLans": "https://github.com/JPSDPOV/DBBiologia/main/imagenes/Imagen%20714.png"
                         },
                         {
                             "question": "La matriz extracelular (ECM):",
