@@ -273,6 +273,25 @@
                             "answer": "a"
                         }
                     ]
+                },
+                "Anclaje de células a su sustrato": {
+                    "questions":[
+                        {
+                            "question": "Son la familia más importante de receptores de unión entre células y los componentes extracelulares:",
+                            "year": "2026",
+                            "imageURL": "",
+                            "options": [
+                                "Integrinas",
+                                "Cadherinas",
+                                "Plectinas",
+                                "Selectinas",
+                                "Fibronectina"
+                            ],
+                            "answer": "a",
+                            "explicacion": "Unidad 7. Página: 224",
+                            "imageURLans": "https://github.com/JPSDPOV/DBBiologia/main/imagenes/Imagen%20716.png"
+                        }
+                    ]
                 }
             }
         },
