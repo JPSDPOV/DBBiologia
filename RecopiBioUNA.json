@@ -49,6 +49,21 @@
                 "Interacciones celulares y matriz extracelular": {
                     "questions": [
                         {
+                            "question": "La proyección de carbohidratos en la superficie externa de la membrana de las células epiteliales del intestino se denomina:",
+                            "year": "",
+                            "imageURL": "",
+                            "options": [
+                                "Membrana basal",
+                                "Glucocálix",
+                                "Chapa estriada",
+                                "Ribete en cepillo",
+                                "Proyecsoma"
+                            ],
+                            "answer": "b",
+                            "explicacion": "Unidad 7. Página: 224",
+                            "imageURLans": "https://github.com/JPSDPOV/DBBiologia/main/imagenes/Imagen%20715.png"
+                        },
+                        {
                             "question": "El glucocálix tiene como característica una de las siguientes, indicar la que corresponda:",
                             "year": "",
                             "imageURL": "",
@@ -94,6 +109,21 @@
                             "imageURLans": "https://github.com/JPSDPOV/DBBiologia/main/imagenes/Imagen%20712.png"
                         },
                         {
+                            "question": "Durante una investigación, los científicos observan que las células cancerosas deben atravesar una lámina continua de material extracelular de 50 a 200 nm de espesor antes de invadir otros tejidos y alcanzar el torrente sanguíneo. La estructura continua que se menciona corresponde: (2026)",
+                            "year": "2026",
+                            "imageURL": "",
+                            "options": [
+                                "El glucocálix, que repele a las células cancerosas mediante cargas eléctricas.",
+                                "Una red de filamentos intermedios.",
+                                "La membrana basal.",
+                                "El citoplasma de las células endoteliales que recubren los vasos sanguíneos.",
+                                "Una capa de celulosa que funciona como soporte mecánico para las células animales."
+                            ],
+                            "answer": "C",
+                            "explicacion": "Unidad 7. Página: 224",
+                            "imageURLans": "https://github.com/JPSDPOV/DBBiologia/main/imagenes/Imagen%20715.png"
+                        },
+                        {
                             "question": "Con coloración de PAS (ácido periódico reactivo de Schiff), no sería posible identificar la membrana o lámina basal en contacto con:",
                             "year": "",
                             "imageURL": "",
@@ -107,7 +137,11 @@
                             "answer": "d",
                             "explicacion": "Unidad 7. Página: 224",
                             "imageURLans": "https://github.com/JPSDPOV/DBBiologia/main/imagenes/Imagen%20711.png"
-                        },
+                        }
+                    ]
+                },
+                "Componentes de la Matriz Extracelular": {
+                    "questions": [
                         {
                             "question": "Son componentes de la matriz extracelular, excepto:",
                             "year": "",
@@ -119,7 +153,7 @@
                                 "El fibroblasto.",
                                 "La integrina."
                             ],
-                            "answer": "d"
+                            "answer": "e"
                         },
                         {
                             "question": "La denominada membrana basal es una fundamental estructura en organismos pluricelulares. Sobre ella es correcto:",
